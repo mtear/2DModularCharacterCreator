@@ -1,0 +1,82 @@
+fileFormatVersion: 2
+guid: 7b37d585257b34c18adbf1ee163afa3f
+timeCreated: 1449438944
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: brow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: brow
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 252
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5396988, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.150635, y: 70.00006}
+        - {x: 6.150635, y: 70.00006}
+        - {x: 6.150635, y: 39.00006}
+        - {x: 47.150635, y: -11.999939}
+        - {x: 143.15063, y: -11.999939}
+        - {x: 143.15063, y: 11.000061}
+        - {x: 134.15063, y: 23.000061}
+      - - {x: -150.84937, y: 7.000061}
+        - {x: -46.849365, y: 44.00006}
+        - {x: -46.849365, y: 75.00006}
+        - {x: -81.849365, y: 75.00006}
+        - {x: -203.84937, y: 38.00006}
+        - {x: -203.84937, y: 7.000061}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

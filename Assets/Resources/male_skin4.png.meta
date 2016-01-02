@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: b6b170b195c554384a8698aef83a5463
+timeCreated: 1449432929
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: larm_2
+    21300002: rarm_2
+    21300004: head
+    21300006: male_skin1_3
+    21300008: body
+    21300010: larm_1
+    21300012: rarm_1
+    21300014: male_skin1_7
+    21300016: lleg_1
+    21300018: lleg_2
+    21300020: rleg_1
+    21300022: rleg_2
+    21300024: uwear
+    21300026: waist
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: larm_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 618
+        width: 174
+        height: 361
+      alignment: 9
+      pivot: {x: .666443527, y: .87940371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rarm_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 618
+        width: 228
+        height: 346
+      alignment: 9
+      pivot: {x: .227540001, y: .855804205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 487
+        width: 457
+        height: 492
+      alignment: 9
+      pivot: {x: .632690787, y: .0673818365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: male_skin1_3
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 963
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 209
+        width: 320
+        height: 757
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: larm_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 648
+        width: 181
+        height: 304
+      alignment: 9
+      pivot: {x: .691996813, y: .763294518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rarm_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 626
+        width: 193
+        height: 330
+      alignment: 9
+      pivot: {x: .224027306, y: .831728578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: male_skin1_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 617
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lleg_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 308
+        height: 561
+      alignment: 9
+      pivot: {x: .701504409, y: .807741106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lleg_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 69
+        width: 193
+        height: 353
+      alignment: 9
+      pivot: {x: .5, y: .849728584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rleg_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 49
+        width: 203
+        height: 523
+      alignment: 9
+      pivot: {x: .320618898, y: .79271698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rleg_2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 119
+        width: 156
+        height: 323
+      alignment: 9
+      pivot: {x: .5, y: .812503576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uwear
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 138
+        width: 267
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: waist
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 500
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

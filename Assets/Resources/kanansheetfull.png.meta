@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: d1e9dde0108c14e43836c9a61eeeff63
+timeCreated: 1449215086
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: larm_2
+    21300002: larm_1
+    21300004: header
+    21300006: rarm_1
+    21300008: rarm_2
+    21300010: kanansheetfull_5
+    21300012: lleg_2
+    21300014: lleg_1
+    21300016: body
+    21300018: rleg_1
+    21300020: rleg_2
+    21300022: uwear
+    21300024: waist
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: larm_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1483
+        width: 176
+        height: 364
+      alignment: 9
+      pivot: {x: .702321112, y: .854617953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: larm_1
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1693
+        width: 192
+        height: 343
+      alignment: 9
+      pivot: {x: .662278473, y: .73358351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: header
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1469
+        width: 523
+        height: 569
+      alignment: 9
+      pivot: {x: .593617201, y: .132337302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rarm_1
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 1709
+        width: 197
+        height: 333
+      alignment: 9
+      pivot: {x: .251463592, y: .807430983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rarm_2
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 1520
+        width: 231
+        height: 349
+      alignment: 9
+      pivot: {x: .249506429, y: .844351947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kanansheetfull_5
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1665
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lleg_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 448
+        width: 197
+        height: 357
+      alignment: 9
+      pivot: {x: .612971127, y: .836635411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lleg_1
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 693
+        width: 311
+        height: 563
+      alignment: 9
+      pivot: {x: .714681625, y: .832051218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 507
+        width: 323
+        height: 763
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rleg_1
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 679
+        width: 206
+        height: 526
+      alignment: 9
+      pivot: {x: .43517828, y: .84694612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rleg_2
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 541
+        width: 160
+        height: 327
+      alignment: 9
+      pivot: {x: .527819812, y: .860000014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uwear
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 78
+        width: 273
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: waist
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 147
+        width: 282
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

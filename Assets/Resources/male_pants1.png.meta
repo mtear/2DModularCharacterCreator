@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 32c544dedad8346a59b475ecc817d7e9
+timeCreated: 1449734480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pants_lleg_1
+    21300002: pants_rleg_1
+    21300004: pants_lleg_2
+    21300006: pants_rleg_2
+    21300008: pants_waist
+    21300010: pants_uwear
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pants_lleg_1
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 504
+        width: 489
+        height: 752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5, y: -285}
+        - {x: 64.5, y: -254}
+        - {x: 85.5, y: -180}
+        - {x: 90.5, y: -166}
+        - {x: 113.5, y: -103}
+        - {x: 130.5, y: -57}
+        - {x: 140.5, y: -34}
+        - {x: 155.5, y: -1}
+        - {x: 163.5, y: 17}
+        - {x: 173.5, y: 48}
+        - {x: 181.5, y: 66}
+        - {x: 181.5, y: 105}
+        - {x: 174.5, y: 137}
+        - {x: 171.5, y: 142}
+        - {x: 156.5, y: 179}
+        - {x: 139.5, y: 204}
+        - {x: 119.5, y: 227}
+        - {x: 108.5, y: 238}
+        - {x: 90.5, y: 250}
+        - {x: 64.5, y: 261}
+        - {x: 35.5, y: 261}
+        - {x: 20.5, y: 256}
+        - {x: 19.5, y: 253}
+        - {x: -8.5, y: 207}
+        - {x: -24.5, y: 171}
+        - {x: -54.5, y: 103}
+        - {x: -62.5, y: 82}
+        - {x: -66.5, y: 73}
+        - {x: -77.5, y: 29}
+        - {x: -94.5, y: -41}
+        - {x: -108.5, y: -96}
+        - {x: -115.5, y: -124}
+        - {x: -126.5, y: -178}
+        - {x: -130.5, y: -199}
+        - {x: -130.5, y: -228}
+        - {x: -126.5, y: -241}
+        - {x: -114.5, y: -269}
+        - {x: -94.5, y: -288}
+        - {x: -67.5, y: -301}
+        - {x: -56.5, y: -304}
+        - {x: 0.5, y: -304}
+        - {x: 27.5, y: -295}
+        - {x: 39.5, y: -288}
+        - {x: 45.5, y: -292}
+    - name: pants_rleg_1
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 505
+        width: 540
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -273}
+        - {x: 61, y: -217}
+        - {x: 63, y: -183}
+        - {x: 63, y: -140}
+        - {x: 61, y: -133}
+        - {x: 60, y: -83}
+        - {x: 58, y: -56}
+        - {x: 56, y: -39}
+        - {x: 49, y: -4}
+        - {x: 20, y: 75}
+        - {x: 0, y: 127}
+        - {x: -14, y: 157}
+        - {x: -36, y: 185}
+        - {x: -45, y: 189}
+        - {x: -65, y: 189}
+        - {x: -76, y: 184}
+        - {x: -108, y: 157}
+        - {x: -126, y: 117}
+        - {x: -137, y: 82}
+        - {x: -140, y: 67}
+        - {x: -144, y: 27}
+        - {x: -144, y: -63}
+        - {x: -138, y: -91}
+        - {x: -119, y: -161}
+        - {x: -109, y: -221}
+        - {x: -103, y: -287}
+        - {x: -83, y: -307}
+        - {x: -66, y: -321}
+        - {x: -31, y: -338}
+        - {x: 3, y: -338}
+        - {x: 24, y: -329}
+        - {x: 46, y: -304}
+        - {x: 55, y: -283}
+    - name: pants_lleg_2
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 487
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -9}
+        - {x: 57.5, y: 75}
+        - {x: 59.5, y: 93}
+        - {x: 59.5, y: 112}
+        - {x: 56.5, y: 130}
+        - {x: 46.5, y: 159}
+        - {x: 20.5, y: 187}
+        - {x: -15.5, y: 199}
+        - {x: -69.5, y: 199}
+        - {x: -102.5, y: 182}
+        - {x: -123.5, y: 162}
+        - {x: -135.5, y: 90}
+        - {x: -131.5, y: -2}
+        - {x: -137.5, y: -29}
+        - {x: -137.5, y: -125}
+        - {x: -118.5, y: -143}
+        - {x: -88.5, y: -158}
+        - {x: -21.5, y: -158}
+        - {x: 3.5, y: -154}
+        - {x: 22.5, y: -131}
+        - {x: 17.5, y: -74}
+    - name: pants_rleg_2
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 0
+        width: 540
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -61}
+        - {x: 53, y: 46}
+        - {x: 53, y: 94}
+        - {x: 42, y: 119}
+        - {x: 6, y: 149}
+        - {x: -47, y: 149}
+        - {x: -75, y: 133}
+        - {x: -92, y: 119}
+        - {x: -107, y: 95}
+        - {x: -107, y: -112}
+        - {x: -101, y: -137}
+        - {x: -80, y: -166}
+        - {x: -54, y: -179}
+        - {x: -1, y: -179}
+        - {x: 18, y: -176}
+        - {x: 44, y: -157}
+        - {x: 34, y: -113}
+    - name: pants_waist
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 509
+        width: 850
+        height: 705
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 76.5}
+        - {x: -112, y: 76.5}
+        - {x: -112, y: -1.5}
+        - {x: 3, y: -42.5}
+        - {x: 141, y: -42.5}
+        - {x: 151, y: -40.5}
+        - {x: 170, y: -22.5}
+        - {x: 170, y: 64.5}
+        - {x: 15, y: 52.5}
+    - name: pants_uwear
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 806
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: 153.5}
+        - {x: 141, y: 195.5}
+        - {x: 137, y: 199.5}
+        - {x: 69, y: 175.5}
+        - {x: 31, y: 172.5}
+        - {x: -102, y: 202.5}
+        - {x: -117, y: 211.5}
+        - {x: -132, y: 211.5}
+        - {x: -135, y: 210.5}
+        - {x: -135, y: 196.5}
+        - {x: -123, y: 159.5}
+        - {x: -90, y: 96.5}
+        - {x: -64, y: 53.5}
+        - {x: -33, y: 11.5}
+        - {x: 30, y: -51.5}
+        - {x: 48, y: -55.5}
+        - {x: 71, y: -55.5}
+        - {x: 99, y: -13.5}
+        - {x: 128, y: 78.5}
+        - {x: 137, y: 105.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

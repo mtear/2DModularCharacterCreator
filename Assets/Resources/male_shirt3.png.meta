@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 65a0b7556b8a2485da7ebe14cfa24f8c
+timeCreated: 1449452322
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shirt_rarm_1
+    21300002: shirt_larm_2
+    21300004: shirt_rarm_2
+    21300006: shirt_larm_1
+    21300008: shirt_body
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shirt_rarm_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 496
+        width: 576
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -88}
+        - {x: 58, y: 35}
+        - {x: -6, y: 144}
+        - {x: -36, y: 175}
+        - {x: -80, y: 175}
+        - {x: -85, y: 174}
+        - {x: -90, y: 163}
+        - {x: -90, y: 107}
+        - {x: -81, y: 48}
+        - {x: -1, y: -151}
+        - {x: 48, y: -170}
+        - {x: 97, y: -170}
+        - {x: 99, y: -164}
+        - {x: 104, y: -157}
+        - {x: 112, y: -145}
+    - name: shirt_larm_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 574
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119, y: -63.5}
+        - {x: 148, y: 65.5}
+        - {x: 148, y: 111.5}
+        - {x: 140, y: 131.5}
+        - {x: 111, y: 159.5}
+        - {x: 72, y: 159.5}
+        - {x: 59, y: 157.5}
+        - {x: 35, y: 138.5}
+        - {x: 18, y: 100.5}
+        - {x: -2, y: 41.5}
+        - {x: -20, y: -21.5}
+        - {x: -27, y: -104.5}
+        - {x: -29, y: -135.5}
+        - {x: -29, y: -166.5}
+        - {x: -25, y: -189.5}
+        - {x: -9, y: -205.5}
+        - {x: 76, y: -205.5}
+        - {x: 118, y: -192.5}
+        - {x: 147, y: -150.5}
+        - {x: 138, y: -115.5}
+      - - {x: 120, y: -65.5}
+        - {x: 122, y: -67.5}
+        - {x: 125, y: -66.5}
+        - {x: 125, y: -63.5}
+        - {x: 123, y: -61.5}
+        - {x: 120, y: -62.5}
+    - name: shirt_rarm_2
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 499
+        width: 540
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 149}
+        - {x: -70, y: 157}
+        - {x: -121, y: 157}
+        - {x: -141, y: 138}
+        - {x: -144, y: 123}
+        - {x: -144, y: 92}
+        - {x: -143, y: 86}
+        - {x: -74, y: -43}
+        - {x: -63, y: -104}
+        - {x: -43, y: -163}
+        - {x: -22, y: -186}
+        - {x: -12, y: -193}
+        - {x: 45, y: -193}
+        - {x: 59, y: -191}
+        - {x: 88, y: -148}
+        - {x: 88, y: -106}
+        - {x: 25, y: 0}
+    - name: shirt_larm_1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 7
+        width: 537
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -222.5}
+        - {x: -0.5, y: -228.5}
+        - {x: 1.5, y: -229.5}
+        - {x: 3.5, y: -231.5}
+        - {x: 10.5, y: -231.5}
+        - {x: 11.5, y: -230.5}
+        - {x: 11.5, y: -223.5}
+        - {x: 8.5, y: -222.5}
+      - - {x: 84.5, y: 71.5}
+        - {x: 72.5, y: 103.5}
+        - {x: 47.5, y: 119.5}
+        - {x: 35.5, y: 120.5}
+        - {x: 1.5, y: 120.5}
+        - {x: -44.5, y: 56.5}
+        - {x: -59.5, y: -13.5}
+        - {x: -100.5, y: -118.5}
+        - {x: -100.5, y: -144.5}
+        - {x: -99.5, y: -156.5}
+        - {x: -87.5, y: -185.5}
+        - {x: -53.5, y: -200.5}
+        - {x: -8.5, y: -200.5}
+        - {x: 23.5, y: -173.5}
+        - {x: 79.5, y: -43.5}
+        - {x: 84.5, y: -3.5}
+    - name: shirt_body
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 17
+        width: 703
+        height: 964
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.5, y: -360}
+        - {x: 131.5, y: -327}
+        - {x: 137.5, y: -319}
+        - {x: 139.5, y: -301}
+        - {x: 144.5, y: -278}
+        - {x: 149.5, y: -265}
+        - {x: 157.5, y: -226}
+        - {x: 158.5, y: -208}
+        - {x: 163.5, y: -206}
+        - {x: 164.5, y: -200}
+        - {x: 165.5, y: -190}
+        - {x: 162.5, y: -186}
+        - {x: 166.5, y: -168}
+        - {x: 166.5, y: -129}
+        - {x: 165.5, y: -102}
+        - {x: 163.5, y: -58}
+        - {x: 157.5, y: -3}
+        - {x: 152.5, y: 25}
+        - {x: 146.5, y: 61}
+        - {x: 141.5, y: 87}
+        - {x: 131.5, y: 148}
+        - {x: 127.5, y: 173}
+        - {x: 117.5, y: 209}
+        - {x: 106.5, y: 235}
+        - {x: 95.5, y: 247}
+        - {x: 85.5, y: 255}
+        - {x: 67.5, y: 262}
+        - {x: 52.5, y: 318}
+        - {x: 42.5, y: 338}
+        - {x: 27.5, y: 349}
+        - {x: 17.5, y: 354}
+        - {x: 7.5, y: 357}
+        - {x: -14.5, y: 357}
+        - {x: -43.5, y: 352}
+        - {x: -50.5, y: 347}
+        - {x: -58.5, y: 339}
+        - {x: -60.5, y: 331}
+        - {x: -62.5, y: 304}
+        - {x: -67.5, y: 284}
+        - {x: -78.5, y: 280}
+        - {x: -107.5, y: 266}
+        - {x: -116.5, y: 261}
+        - {x: -139.5, y: 243}
+        - {x: -153.5, y: 227}
+        - {x: -157.5, y: 206}
+        - {x: -157.5, y: 120}
+        - {x: -152.5, y: 75}
+        - {x: -140.5, y: 12}
+        - {x: -133.5, y: -33}
+        - {x: -126.5, y: -87}
+        - {x: -127.5, y: -99}
+        - {x: -126.5, y: -118}
+        - {x: -116.5, y: -148}
+        - {x: -103.5, y: -186}
+        - {x: -88.5, y: -216}
+        - {x: -71.5, y: -243}
+        - {x: -51.5, y: -281}
+        - {x: -34.5, y: -309}
+        - {x: -11.5, y: -334}
+        - {x: 10.5, y: -359}
+        - {x: 42.5, y: -391}
+        - {x: 57.5, y: -399}
+        - {x: 77.5, y: -404}
+        - {x: 95.5, y: -404}
+        - {x: 97.5, y: -400}
+        - {x: 101.5, y: -391}
+        - {x: 107.5, y: -380}
+      - - {x: 103.5, y: -346}
+        - {x: 105.5, y: -348}
+        - {x: 108.5, y: -347}
+        - {x: 108.5, y: -343}
+        - {x: 106.5, y: -341}
+        - {x: 103.5, y: -342}
+      - - {x: 86.5, y: -133}
+        - {x: 77.5, y: -133}
+        - {x: 75.5, y: -134}
+        - {x: 75.5, y: -150}
+        - {x: 77.5, y: -155}
+        - {x: 83.5, y: -155}
+        - {x: 86.5, y: -152}
+        - {x: 87.5, y: -142}
+        - {x: 87.5, y: -138}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
